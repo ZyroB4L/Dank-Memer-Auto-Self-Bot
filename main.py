@@ -3,7 +3,6 @@ from discord.ext import commands
 import colorama
 from colorama import Fore
 import asyncio
-from webserver import keep_alive
 
 import os
 
